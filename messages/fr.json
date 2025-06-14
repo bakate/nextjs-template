@@ -1,0 +1,38 @@
+{
+  "Navigation": {},
+  "HomePage": {
+    "test": "ceci est juste un test"
+  },
+  "Error": {
+    "notFound": {
+      "title": "Oups!",
+      "description": "La page que tu recherches n'existe pas.",
+      "backButton": "Revenir à l'accueil"
+    },
+    "boundary": {
+      "title": "Une erreur est survenue",
+      "description": "Quelque chose s'est mal passée. Tu peux essayer de recharger la page ou revenir à l'accueil.",
+      "retryButton": "Réessayer",
+      "homeButton": "Revenir à l'accueil"
+    }
+  },
+  "Common": {
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "loading": "Chargement...",
+    "error": "Une erreur est survenue",
+    "success": "Opération réussie"
+  },
+  "DataTableComponent": {
+    "filterByLabel": "Filtrer par {column}",
+    "noResultsFound": "Aucun résultat trouvé",
+    "previousPageAriaLabel": "Page précédente",
+    "nextPageAriaLabel": "Page suivante"
+  },
+  "Footer": {},
+  "UserFeature": {
+    "test": "test"
+  }
+}

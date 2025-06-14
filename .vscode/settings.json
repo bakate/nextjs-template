@@ -1,0 +1,8 @@
+{
+  "typescript.preferences.autoImportFileExcludePatterns": [
+    "**/dist/",
+    "**/build/",
+    "@radix-ui/*",
+    "drizzle-orm/singlestore-core"
+  ]
+}
